@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Login.View.ViewAll">
+    <ListView x:Name="MyListView"
+            ItemsSource="{Binding Items}"
+            ItemTapped="Handle_ItemTapped"
+            CachingStrategy="RecycleElement"
+            HasUnevenRows="True">
+
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Spacing="10" Margin="30, 10">
+                        <StackLayout Spacing="0">
+                            <Label Text="{Binding DeviceModel}" FontSize="Body" TextColor="Black" />
+                            <Label Text="{Binding DeviceBrand}" FontSize="Body" TextColor="Black" />
+                            <Label Text="{Binding DeviceOS}" FontSize="Body" TextColor="Black" />
+                        </StackLayout>
+                        <StackLayout Spacing="0">
+                            <Label Text="{Binding Username}" FontSize="Body" />
+                            <Label Text="{Binding DateSubmitted}" FontSize="Body" />
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

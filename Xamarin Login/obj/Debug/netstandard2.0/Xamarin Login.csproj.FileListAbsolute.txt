@@ -1,0 +1,48 @@
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\bin\Debug\netstandard2.0\Xamarin Login.deps.json
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\bin\Debug\netstandard2.0\Xamarin Login.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\bin\Debug\netstandard2.0\ref\Xamarin Login.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\bin\Debug\netstandard2.0\Xamarin Login.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\Profile.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\Register.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.AssemblyInfoInputs.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.AssemblyInfo.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.csproj.CoreCompileInputs.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\ref\Xamarin Login.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.csprojAssemblyReference.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\Dashboard.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\SideNav.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\SideNavMaster.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\AddData.xaml.g.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login\obj\Debug\netstandard2.0\View\ViewAll.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\bin\Debug\netstandard2.0\Xamarin Login.deps.json
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\bin\Debug\netstandard2.0\Xamarin Login.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\bin\Debug\netstandard2.0\ref\Xamarin Login.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\bin\Debug\netstandard2.0\Xamarin Login.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.csprojAssemblyReference.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\AddData.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\Dashboard.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\Profile.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\Register.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\SideNav.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\SideNavMaster.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\View\ViewAll.xaml.g.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.AssemblyInfoInputs.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.AssemblyInfo.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.csproj.CoreCompileInputs.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\ref\Xamarin Login.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login\obj\Debug\netstandard2.0\Xamarin Login.csproj.CopyComplete
