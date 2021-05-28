@@ -1,0 +1,8 @@
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\optimized\
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\Xamarin Login.iOS.csprojAssemblyReference.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.iOS\obj\iPhone\Debug\Xamarin Login.iOS.csproj.CoreCompileInputs.cache

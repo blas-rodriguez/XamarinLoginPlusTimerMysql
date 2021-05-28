@@ -1,0 +1,1146 @@
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\Xamarin Login.Android.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\Xamarin Login.Android.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login.apk
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login.aab
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login-Signed.aab
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login-Signed.apk
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login-Signed.apk.idsig
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\Xamarin Login.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\bin\Debug\Xamarin Login.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\build.props
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\adb.props
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.csprojAssemblyReference.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res.flag
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\R.txt
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\R.cs.flag
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.csproj.CoreCompileInputs.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.csproj.CopyComplete
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\bin\com.companyname.xamarin_login.apk
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\bin\base.zip
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\bin\com.companyname.xamarin_login.aab
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\bin\com.companyname.xamarin_login.apks
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\layout\tabbar.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\layout\toolbar.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\values\styles.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\values\colors.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-hdpi\icon.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-hdpi\launcher_foreground.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-mdpi\icon.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-mdpi\launcher_foreground.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-xhdpi\icon.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-xhdpi\launcher_foreground.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxhdpi\icon.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxxhdpi\icon.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\uploadflags.txt
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\resolvedassemblies.hash
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\FormsViewGroup.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\FormsViewGroup.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Java.Interop.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Android.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Android.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Security.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Security.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\mscorlib.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\mscorlib.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\MySqlConnector.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\netstandard.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Core.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Core.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Drawing.Common.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Net.Http.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Net.Http.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Transactions.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Transactions.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Web.Services.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Web.Services.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.Linq.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.Android.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.Android.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.arm64-v8a.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.armeabi-v7a.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.x86.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.x86_64.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.shared.inc
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\AndroidManifest.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\AndroidManifest.xml
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\__environment__.txt
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\machine.config
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\bin\mono.android.jar
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\static.flag
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\buildid.txt
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.arm64-v8a.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.armeabi-v7a.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.x86.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.x86_64.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\browser\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\cardview\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\core\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\media\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\recyclerview\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\androidx\transition\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\com\google\android\material\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64b4c765d2be68978f\MainActivity.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\bin\packaged_resources
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\com\companyname\xamarin_login\R.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.x86.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.x86_64.s
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.arm64-v8a.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.armeabi-v7a.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.x86.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\typemaps.x86_64.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.arm64-v8a.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.armeabi-v7a.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.x86.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\environment.x86_64.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.x86.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.x86_64.o
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\app_shared_libraries\x86\libxamarin-app.so
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\app_shared_libraries\x86_64\libxamarin-app.so
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\bin\classes.dex
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_CompileToDalvik.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_ConvertCustomView.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\78\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\81\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\84\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Akavache.Core.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Akavache.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Akavache.Sqlite3.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Newtonsoft.Json.Bson.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Newtonsoft.Json.Bson.pdb
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Newtonsoft.Json.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Splat.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Buffers.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Memory.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Reactive.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\4\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\49\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\50\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\55\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\68\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\71\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\82\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\83\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\85\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\lp\88\jl\files.cache
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Microcharts.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Microcharts.Droid.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\Microcharts.Forms.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\SkiaSharp.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\SkiaSharp.Views.Android.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\assets\SkiaSharp.Views.Forms.dll
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\GLTextureView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\GLTextureView_LogWriter.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKCanvasView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLSurfaceView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLSurfaceViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLSurfaceView_InternalRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLTextureView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLTextureViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLTextureView_InternalRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKSurfaceView.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKCanvasViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKCanvasViewRendererBase_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKGLViewRenderer.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKGLViewRendererBase_2.java
+D:\Hudas-Drive\Documents\Repository\Xamarin Login\Xamarin Login.Android\obj\Debug\100\android\src\crc64e9f97cf19b8286a9\ChartView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\Xamarin Login.Android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\Xamarin Login.Android.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login.apk
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login.aab
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login-Signed.aab
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login-Signed.apk
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\com.companyname.xamarin_login-Signed.apk.idsig
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\Xamarin Login.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\bin\Debug\Xamarin Login.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\build.props
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\adb.props
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.csprojAssemblyReference.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res.flag
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\4\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\49\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\50\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\55\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\68\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\71\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\78\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\81\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\82\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\83\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\84\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\85\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\lp\88\jl\files.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\R.txt
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\R.cs.flag
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.csproj.CoreCompileInputs.cache
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.csproj.CopyComplete
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\Xamarin Login.Android.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\bin\com.companyname.xamarin_login.apk
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\bin\base.zip
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\bin\com.companyname.xamarin_login.aab
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\bin\com.companyname.xamarin_login.apks
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\layout\tabbar.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\layout\toolbar.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\values\styles.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\values\colors.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-hdpi\icon.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-hdpi\launcher_foreground.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-mdpi\icon.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-mdpi\launcher_foreground.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-xhdpi\icon.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-xhdpi\launcher_foreground.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxhdpi\icon.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxxhdpi\icon.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\uploadflags.txt
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\resolvedassemblies.hash
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Akavache.Core.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Akavache.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Akavache.Sqlite3.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\FormsViewGroup.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\FormsViewGroup.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Java.Interop.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Microcharts.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Microcharts.Droid.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Microcharts.Forms.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Android.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Security.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Mono.Security.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\mscorlib.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\mscorlib.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\MySqlConnector.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\netstandard.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Newtonsoft.Json.Bson.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Newtonsoft.Json.Bson.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Newtonsoft.Json.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\SkiaSharp.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\SkiaSharp.Views.Android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\SkiaSharp.Views.Forms.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Splat.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Buffers.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Core.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Core.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Data.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Drawing.Common.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.IO.Compression.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Memory.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Net.Http.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Net.Http.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Reactive.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Transactions.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Transactions.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Web.Services.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Web.Services.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.Linq.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\System.Xml.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.Android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.Android.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin Login.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\typemaps.armeabi-v7a.s
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\typemaps.arm64-v8a.s
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\typemaps.shared.inc
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\AndroidManifest.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\AndroidManifest.xml
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\__environment__.txt
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\assets\machine.config
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\bin\mono.android.jar
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\static.flag
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\buildid.txt
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\environment.armeabi-v7a.s
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\environment.arm64-v8a.s
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\browser\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\cardview\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\core\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\media\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\recyclerview\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\androidx\transition\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\com\google\android\material\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\GLTextureView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\GLTextureView_LogWriter.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKCanvasView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLSurfaceView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLSurfaceViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLSurfaceView_InternalRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLTextureView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLTextureViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKGLTextureView_InternalRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc648e35430423bd4943\SKSurfaceView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64b4c765d2be68978f\MainActivity.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKCanvasViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKCanvasViewRendererBase_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKGLViewRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64bb223c2be3a01e03\SKGLViewRendererBase_2.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64e9f97cf19b8286a9\ChartView.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\bin\packaged_resources
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\src\com\companyname\xamarin_login\R.java
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.s
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.s
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\typemaps.armeabi-v7a.o
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\typemaps.arm64-v8a.o
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\environment.armeabi-v7a.o
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\environment.arm64-v8a.o
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\android\bin\classes.dex
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_CompileToDalvik.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_ConvertCustomView.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+D:\Applications\xamarin\XamarinLogin\Xamarin Login.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp

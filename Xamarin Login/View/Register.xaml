@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Login.Register">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Register" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" />
+            </Frame>
+
+            <Grid Margin="30,0,30,0" VerticalOptions="CenterAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="0" Text="First Name" FontSize="18" />
+                <Entry Grid.Row="1" x:Name="Entry_firstname" FontSize="18" />
+                <Label Grid.Row="2" Text="Last Name" FontSize="18" />
+                <Entry Grid.Row="3" x:Name="Entry_lastname" FontSize="18" />
+                <Label Grid.Row="4" Text="Username" FontSize="18" />
+                <Entry Grid.Row="5" x:Name="Entry_username" FontSize="18" />
+                <Label Grid.Row="6" Text="Email" FontSize="18" />
+                <Entry Grid.Row="7" x:Name="Entry_email" FontSize="18" />
+                <Label Grid.Row="8" Text="Password" FontSize="18" />
+                <Entry Grid.Row="9" x:Name="Entry_password" FontSize="18" IsPassword="True" />
+                <Button Grid.Row="10" x:Name="RegisterButton" Text="Register" Clicked="Register_Button_Clicked" />
+
+                <ActivityIndicator Grid.Row="10" x:Name="LoadingIndicator" />
+            </Grid>
+
+            <Button Text="Login" Clicked="Login_Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

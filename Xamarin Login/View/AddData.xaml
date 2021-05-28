@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Login.View.AddData"
+             Title="Add Data">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid Margin="30,0,30,0" VerticalOptions="CenterAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="0" Text="Mobile Device Model" FontSize="18" />
+                <Entry Grid.Row="1" x:Name="Entry_devicemodel" FontSize="18" />
+                <Label Grid.Row="2" Text="Mobile Device Brand" FontSize="18" />
+                <Entry Grid.Row="3" x:Name="Entry_devicebrand" FontSize="18" />
+                <Label Grid.Row="4" Text="Mobile Device OS Version" FontSize="18" />
+                <Entry Grid.Row="5" x:Name="Entry_deviceos" FontSize="18" />
+                <Button Grid.Row="6" x:Name="AddDataButton" Text="Add Data" Clicked="AddDataButton_Clicked" />
+
+                <ActivityIndicator Grid.Row="6" x:Name="LoadingIndicator" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
